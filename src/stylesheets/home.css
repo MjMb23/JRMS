@@ -1,0 +1,21 @@
+
+.mainFxmlClass {
+    -fx-background-color: white;
+
+}
+.mainButtons{
+    -fx-background-color: #29b6f6;
+    -fx-border-radius: 20px;
+    
+}
+
+
+.button:hover{
+   
+    -fx-scale-y: 1.1;
+    -fx-scale-x: 1.1;
+    -fx-background-color: #0288d1;
+    transition: -fx-background-color 3s;
+}
+
+
